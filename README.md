@@ -1,4 +1,4 @@
-# Data_Visualization_Applied_Plotting_Python_Coursera-Global-Historical-Climatology
+# Data_Visualization_Coursera-Global-Historical-Climatology
 
 This was part of several data visualization projects taken during my Certificate in Applied Plotting Charting Data Representation in Python from Michigan Univeristy, USA.
 
