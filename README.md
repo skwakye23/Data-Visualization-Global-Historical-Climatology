@@ -1,6 +1,6 @@
 # Data_Visualization_Applied_Plotting_Python_Coursera-Global-Historical-Climatology
 
-Implementation of a dynamic customed 95 % confidence interval bar chart. This was part of several data visualization projects taken during my Certificate in Applied Plotting Charting Data Representation in Python from Michigan Univeristy, USA.
+This was part of several data visualization projects taken during my Certificate in Applied Plotting Charting Data Representation in Python from Michigan Univeristy, USA.
 
 Required Libraries:
 
